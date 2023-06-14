@@ -1,6 +1,10 @@
 # swim
 
-Swim - this repos is a **swift macros playground**, namely, it contains results of experiments with **macros**, which were added in swift 5.9.
+<p align="center">
+    <img src="Assets/logo.png" alt="logo"/>
+</p>
+
+Swim - this repo is a **swift macros playground**, namely, it contains results of experiments with **macros**, which were added in swift 5.9.
 
 ## Running the code
 
